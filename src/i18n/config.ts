@@ -10,6 +10,7 @@ export const languages = {
   "pt-BR": { label: "Português", path: "/pt-BR/" },
   "cs": { label: "Čeština", path: "/cs/" },
   "sk": { label: "Slovenčina", path: "/sk/" },
+  "hu": { label: "Magyar", path: "/hu/" },
   "ar": { label: "العربية", path: "/ar/"},
   "fa": { label: "فارسی", path: "/fa/"},
   "tr": { label: "Türkçe", path: "/tr/" },
