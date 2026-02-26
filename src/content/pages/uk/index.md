@@ -12,7 +12,6 @@ site_disclaimer: "**Відмова від відповідальності:** Ц
 site_privacy: "**Конфіденційність:** Цей сайт не використовує файли cookie та не відстежує і не реєструє дії користувачів."
 site_copyright: "**Авторське право:** Відсутнє. Ця робота позначена"
 
-lockdown_banner: "Android стане закритою платформою"
 open_letter_cta: "Прочитайте наш відкритий лист проти програми верифікації розробників Android"
 ---
 
@@ -69,4 +68,4 @@ open_letter_cta: "Прочитайте наш відкритий лист про
 - Висловлюйте свою думку в соціальних мережах та блогах, посилаючись на <https://keepandroidopen.org>
 - Боріться з імітаціями громадської підтримки: коли ви натрапляєте на підозрілі дописи на форумах спільнот та в соціальних мережах на підтримку цієї політики («Ну, насправді…»), оскаржуйте їх і не соромтеся.
 - Допоможіть цьому проєкту, [редагуючи цю сторінку](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/src/content/pages/uk/index.md) та додаючи більше корисної інформації.
-- [Підпишіть цю петицію на change.org](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+- [Підпишіть цю петицію на change.org](https://www.change.org/p/stop-google-from-limiting-apk-file-usage)

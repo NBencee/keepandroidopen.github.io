@@ -12,7 +12,6 @@ site_disclaimer: "**Upozornenie:** Táto webová stránka je komunitným nekomer
 site_privacy: "**Súkromie:** Táto stránka nepoužíva žiadne súbory cookie a nevykonáva žiadne sledovanie ani zaznamenávanie používateľov."
 site_copyright: "**Autorské práva:** Žiadne. Toto dielo je označené"
 
-lockdown_banner: "Android sa stane uzamknutou platformou"
 open_letter_cta: "Prečítajte si náš otvorený list proti programu overovania vývojárov systému Android"
 ---
 
@@ -70,4 +69,4 @@ Odradzujte kolegov vývojárov aplikácií a organizácie od prihlásenia sa do 
 - Dajte o sebe vedieť na sociálnych médiách a v blogových príspevkoch a odkazujte na <https://keepandroidopen.org>.
 - Bojujte proti astroturfingu: keď narazíte na podozrivé príspevky na komunitných fórach a sociálnych médiách, ktoré podporujú túto politiku („No, vlastne...“), spochybnite ich a nehanbite sa.
 - Pomôžte tomuto projektu tým, že [upravíte túto stránku](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/src/content/pages/sk/index.md) a doplníte ju o ďalšie užitočné informácie.
-- [Podpíšte túto petíciu na change.org](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+- [Podpíšte túto petíciu na change.org](https://www.change.org/p/stop-google-from-limiting-apk-file-usage)

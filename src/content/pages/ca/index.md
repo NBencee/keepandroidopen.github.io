@@ -12,7 +12,6 @@ site_disclaimer: "**Avís legal:** Aquest lloc web és una iniciativa comunitàr
 site_privacy: "**Privadesa:** Aquest lloc no utilitza galetes i no fa cap seguiment ni registre d’usuaris."
 site_copyright: "**Copyright:** Cap. Aquesta obra està marcada"
 
-lockdown_banner: "Android es convertirà en una plataforma tancada"
 open_letter_cta: "Llegiu la nostra carta oberta contra el programa de verificació de desenvolupadors d'Android"
 open_letter_header: "Carta oberta"
 open_letter_description: "Una carta oberta per defensar Android com una plataforma lliure i oberta."
@@ -72,5 +71,5 @@ Si ets un empleat o contractista de Google amb bona consciència i tens més inf
 - Dona la teva opinió directament a Google mitjançant la seva [enquesta sobre els requisits de verificació de desenvolupadors d'Android](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
 - Fes sentir la teva veu a les xarxes socials i amb entrades de blog, i enllaça a
 - Combateix l'astroturfing: quan trobis publicacions sospitoses a fòrums comunitaris i xarxes socials a favor de la política (“Bé, en realitat…”), qüestiona-les i no et tallis.
-- Ajuda aquest projecte [editant aquesta pàgina](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/src/content/pages/en/index.md) amb informació més útil.
-- [Signa aquesta petició a change.org](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+- Ajuda aquest projecte [editant aquesta pàgina](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/src/content/pages/ca/index.md) amb informació més útil.
+- [Signa aquesta petició a change.org](https://www.change.org/p/stop-google-from-limiting-apk-file-usage)

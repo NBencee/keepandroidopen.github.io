@@ -12,7 +12,6 @@ site_disclaimer: "**Disclaimer:** This website is a community-driven noncommerci
 site_privacy: "**Privacy:** This site uses no cookies and performs no user tracking or logging."
 site_copyright: "**Copyright:** None. This work is marked"
 
-lockdown_banner: "Android will become a locked-down platform"
 open_letter_cta: "Read our open letter opposing the Android Developer Verification program"
 open_letter_header: "Open Letter"
 open_letter_description: "An open letter to advocate for Android as a free, open platform."
@@ -73,7 +72,7 @@ If you are a Google employee or contractor of good conscience and have additiona
 - Make your voice heard on social media and with blog posts, and link to <https://keepandroidopen.org>
 - Combat astroturfing: when you encounter suspect posts on community forums and social media in support of the policy (“Well, actually…”), challenge them and do not be shy.
 - Help this project out by [editing this page](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/src/content/pages/en/index.md) with more useful information.
-- [Sign this change.org petition](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+- [Sign this change.org petition](https://www.change.org/p/stop-google-from-limiting-apk-file-usage/)
 
 ### Web Site Owners: Show your support {#webmasters}
 

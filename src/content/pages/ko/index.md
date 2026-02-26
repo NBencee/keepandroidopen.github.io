@@ -12,7 +12,6 @@ site_disclaimer: "**면책 조항:** 본 사이트는 커뮤니티 주도의 비
 site_privacy: "**개인정보:** 본 사이트는 쿠키 등의 정보 수집 장치, 추적 및 기록 등을 하지 않습니다."
 site_copyright: "**저작권:** 없음. 사이트는 다음 저작권으로 배포됩니다:"
 
-lockdown_banner: "Android가 폐쇄된 플랫폼이 되기까지 남은 시간:"
 open_letter_cta: "Android 개발자 인증 프로그램에 반대하는 공개 서한을 읽어보세요"
 ---
 
@@ -74,4 +73,4 @@ Google 직원 또는 내부 관계자이시고, 프로그램에 대한 추가적
 - <https://keepandroidopen.org/ko>을 SNS와 블로그 게시글로 공유해주세요.
 - 가짜 여론 조성에 맞서 싸우세요: 커뮤니티 포럼과 SNS에서 정책을 지지하는 의심스러운 게시물을 발견하면 망설이지 말고 반론하세요.
 - [이 페이지를 수정하여](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/src/content/pages/ko/index.md) 더 유용한 정보를 추가하고, 번역을 개선하여 주세요.
-- [change.org 청원에 서명해 주세요.](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+- [change.org 청원에 서명해 주세요.](https://www.change.org/p/stop-google-from-limiting-apk-file-usage)

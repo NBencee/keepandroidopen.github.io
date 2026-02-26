@@ -10,6 +10,10 @@
   url: "article19.org"
   poc: "Mark Dempsey <mark.dempsey@article19.org>"
   region: GB
+- organization: "Associação Nacional para o Software Livre (ANSOL)"
+  url: "ansol.org"
+  poc: "ANSOL - Direcção <direccao@ansol.org>"
+  region: PT
 - organization: "Aurora Store"
   url: "auroraoss.com"
   poc: "Vishal Bakhai <vishal@auroraoss.com>"
@@ -66,13 +70,18 @@
   url: "fastmail.com"
   poc: "Bek Fraser <bekf@fastmailteam.com>"
   region: AU
+- organization: "FUTO"
+  url: "futo.org"
+  poc: "Michael McConnell <michaelm@futo.org>"
+  region: US
+- organization: "Ghostery"
+  url: "ghostery.com"
+  poc: "Adam from Ghostery <adam@ghostery.com>"
+  region: DE
 - organization: "F-Droid"
   url: "f-droid.org"
   poc: "board@f-droid.org"
   region: NL
-- organization: "IzzyOnDroid"
-  url: "izzyondroid.org"
-  poc: "Andreas Itzchak Rehberg <izzy@izzyondroid.org>"
 - organization: "The Free Software Foundation (FSF)"
   url: "fsf.org"
   poc: "Greg Farough via RT <campaigns@fsf.org>"
@@ -81,29 +90,24 @@
   url: "fsfe.org"
   poc: "Lucas Lasota <lucas.lasota@fsfe.org>"
   region: DE
-- organization: "Ghostery"
-  url: "ghostery.com"
-  poc: "Adam from Ghostery <adam@ghostery.com>"
-  region: DE
 - organization: "The Guardian Project"
   url: "guardianproject.info"
   poc: "Nathan Freitas <nathan@guardianproject.info>"
   region: US
+- organization: "IzzyOnDroid"
+  url: "izzyondroid.org"
+  poc: "Andreas Itzchak Rehberg <izzy@izzyondroid.org>"
 - organization: "JMP.chat"
   url: "jmp.chat"
   poc: "Stephen Paul Weber <info@jmp.chat>"
   region: CA
-- organization: "Obtainium"
-  url: "obtainium.imranr.dev"
-  poc: "Imran <contact@imranr.dev>"
-- organization: "The OpenStreetMap Foundation (OSMF)"
-  url: "osmfoundation.org"
-  poc: "Héctor Ochoa Ortiz <hector.ochoa.ortiz@osmfoundation.org>"
-  region: GB
-- organization: "Osservatorio Nessuno OdV"
-  url: "osservatorionessuno.org"
-  poc: "Giulio B <giulio@osservatorionessuno.org>"
-  region: IT
+- organization: "KDE e.V."
+  url: "kde.org"
+  poc: "Carl Schwan <carlschwan@kde.org>"
+  region: DE
+- organization: "microG"
+  url: "microg.org"
+  poc: "Marvin W. <marvin@microg.org>"
 - organization: "Molly"
   url: "molly.im"
   poc: "Oscar Mira <valldrac@molly.im>"
@@ -111,15 +115,26 @@
   url: "nextcloud.com"
   poc: "Jos Poortvliet <jos.poortvliet@nextcloud.com>"
   region: DE
+- organization: "Obtainium"
+  url: "obtainium.imranr.dev"
+  poc: "Imran <contact@imranr.dev>"
+- organization: "The OpenStreetMap Foundation (OSMF)"
+  url: "osmfoundation.org"
+  poc: "Héctor Ochoa Ortiz <hector.ochoa.ortiz@osmfoundation.org>"
+  region: GB
 - organization: "Open Rights Group (ORG)"
   url: "openrightsgroup.org"
   poc: "Jim Killock <jim@openrightsgroup.org>"
   region: GB
+- organization: "Osservatorio Nessuno OdV"
+  url: "osservatorionessuno.org"
+  poc: "Giulio B <giulio@osservatorionessuno.org>"
+  region: IT
 - organization: "Proton AG"
   url: "proton.me"
   poc: "Samuele Kaplun <samuele.kaplun@proton.ch>"
   region: CH
-- organization: "Rossman Group"
+- organization: "Rossmann Group"
   url: "rossmanngroup.com"
   poc: "Louis Rossmann <youtube@rossmanngroup.com>"
   region: US
@@ -136,7 +151,7 @@
   poc: "Isabela Fernandes <isabela@torproject.org>"
   region: US
 - organization: "Tuta Mail"
-  url: "tutao.de"
+  url: "tuta.com"
   poc: "Hanna Bozakov <hanna.bozakov@tutao.de>"
   region: DE
 - organization: "Vivaldi Technologies AS"

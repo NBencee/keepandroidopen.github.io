@@ -13,7 +13,6 @@ const pagesCollection = defineCollection({
     site_disclaimer: z.string().optional(),
     site_privacy: z.string().optional(),
     site_copyright: z.string().optional(),
-    lockdown_banner: z.string().optional(),
     open_letter_cta: z.string().optional(),
   }),
 });

@@ -12,7 +12,6 @@ site_disclaimer: "**Vyloučení odpovědnosti:** Tato stránka je komunitním, n
 site_privacy: "**Soukromí:** Tato stránka nepoužívá žádné cookies a neprovozuje žádné sledování nebo logování uživatelů."
 site_copyright: "**Copyright:** Žádný. Toto dílo je označeno"
 
-lockdown_banner: "Android will become a locked-down platform in"
 open_letter_cta: "Přečtěte si náš otevřený dopis proti programu ověřování vývojářů Androidu"
 ---
 
@@ -69,4 +68,4 @@ Zkuste přimět své spřízněné vývojáře a organizace, aby se nepřihlašo
 - Vyjádřete svůj názor na sociálních sítích a na blozích a odkazujte na <https://keepandroidopen.org>
 - Bojujte s astroturfingem: když zaznamenáte podezřelé příspěvky na komunitních fórech a sociálních sítích, které podporují tato nová pravidla (“Dobře, ale…”), reagujte na ně a nebuďte nesmělí.
 - Pomozte tomuto projektu [úpravou této stránky](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/src/content/pages/cs/index.md) přidáním dalších užitečných informací.
-- [Podepište tuto petici na change.org](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+- [Podepište tuto petici na change.org](https://www.change.org/p/stop-google-from-limiting-apk-file-usage)

@@ -14,6 +14,7 @@ export const languages = {
   "ar": { label: "العربية", path: "/ar/"},
   "fa": { label: "فارسی", path: "/fa/"},
   "tr": { label: "Türkçe", path: "/tr/" },
+  "tl": { label: "Tagalog", path: "/tl/" },
   "el": { label: "Ελληνικά", path: "/el/" },
   "th": { label: "ไทย", path: "/th/" },
   "ru": { label: "Русский", path: "/ru/" },
@@ -21,6 +22,7 @@ export const languages = {
   "ko": { label: "한국어", path: "/ko/" },
   "zh-CN": { label: "简体中文", path: "/zh-CN/" },
   "zh-TW": { label: "正體中文", path: "/zh-TW/" },
+  "ja": { label: "日本語", path: "/ja/" },
 } as const;
 
 export type Locale = keyof typeof languages;

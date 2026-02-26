@@ -12,7 +12,6 @@ site_disclaimer: "**Disclaimer**: Bu site kâr amacı gütmez ve topluluk taraf�
 site_privacy: "**Gizlilik**: Bu site hiçbir çerez kullanmaz ve kullanıcıları takip etmez veya kaydetmez."
 site_copyright: "**Telif Hakkı**: Telif hakkı yoktur. Bu çalışma kamu malıdır:"
 
-lockdown_banner: "Android kısıtlı bir platform haline gelecek."
 open_letter_cta: "Android Geliştirici Doğrulama programına karşı açık mektubumuzu okuyun"
 ---
 
@@ -72,4 +71,4 @@ Tanıdık uygulama geliştiricilerini ve teşkilatları programa kaydolmak konus
 - Bu projeye [bu sayfayı faydalı bilgilerle düzenleyerek](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/src/content/pages/tr/index.md) yardımcı olun.
 
 ### Bu Dilekçeleri İmzalayın
-- [Şu change.org dilekçesini imazalayın](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+- [Şu change.org dilekçesini imazalayın](https://www.change.org/p/stop-google-from-limiting-apk-file-usage)

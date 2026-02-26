@@ -19,8 +19,11 @@ heading:
   uk: "Реакція преси"
   zh-CN: "媒体反应"
   zh-TW: "媒體反應"
+  ja: "報道の反応"
 
 items:
+  - text: "37 groups urge the company to drop ID checks for apps distributed outside Play"
+    url: "https://www.theregister.com/2026/02/24/google_android_developer_verification_plan/"
   - text: "'Keep Android Open' movement fights back against Google sideloading restrictions"
     url: "https://www.theregister.com/2025/10/29/keep_android_open_movement/"
   - text: "Resistance to Google's Android verification grows among developers"
